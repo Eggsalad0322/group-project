@@ -27,4 +27,5 @@ nav {
     width: 60px;
     margin-left: 0px;
     font-size: 84%;
+    position: sticky;
 }
