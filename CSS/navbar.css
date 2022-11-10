@@ -1,0 +1,30 @@
+#menuPopout {
+    height: 93.5vh;
+    display: none;
+    float: left;
+    padding: 5px;
+    background-color: #D3D3D3;
+}
+
+.navButton {
+    text-align: center;
+    border: 1px outset grey;
+    border-radius: 10px;
+    width: 60px;
+    margin-bottom: 5px;
+    background-color: white;
+}
+
+#menuButton {
+    text-align: right;
+    display: inline;
+    margin-left: 5px;
+}
+
+nav {
+    height: 90%;
+    float: left;
+    width: 60px;
+    margin-left: 0px;
+    font-size: 84%;
+}
